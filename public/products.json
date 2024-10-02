@@ -1,0 +1,145 @@
+{
+  "owoce": [
+    { "name": "Jabłko gala", "price": 1.23, "src": "/owoce/gala.jpeg" },
+    { "name": "Jabłko champion", "price": 2.24, "src": "/owoce/champion.webp" },
+    { "name": "Banan bio", "price": 2.32, "src": "/owoce/banan_bio.jpg" },
+    {
+      "name": "Banan premium",
+      "price": 1.83,
+      "src": "/owoce/banan_premium.jpg"
+    },
+    { "name": "Gruszka", "price": 1.75, "src": "/owoce/gruszka.jpg" },
+    { "name": "Pomarańcza", "price": 1.25, "src": "/owoce/pomarancza.jpeg" },
+    { "name": "Cytryna", "price": 1.25, "src": "/owoce/cytryna.jpg" },
+    { "name": "Mandarynka", "price": 1.35, "src": "/owoce/mandarynka.jpg" },
+    { "name": "Brzoskwinia", "price": 2.1, "src": "/owoce/brzoskwinia.jpg" },
+    { "name": "Nektarynka", "price": 2.15, "src": "/owoce/nektarynka.jpg" },
+    { "name": "Kiwi", "price": 1.8, "src": "/owoce/kiwi.webp" },
+    {
+      "name": "Winogrono czerwone",
+      "price": 3.5,
+      "src": "/owoce/winogrono_czerwone.jpg"
+    },
+    {
+      "name": "Winogrono zielone",
+      "price": 3.4,
+      "src": "/owoce/winogrono_zielone.jpg"
+    },
+    { "name": "Arbuz", "price": 0.9, "src": "/owoce/arbuz.jpg" },
+    { "name": "Melon", "price": 2.75, "src": "/owoce/melon.jpg" },
+    { "name": "Mango", "price": 3.1, "src": "/owoce/mango.webp" },
+    { "name": "Papaja", "price": 4.25, "src": "/owoce/papaja.jpg" },
+    { "name": "Ananas", "price": 4.5, "src": "/owoce/ananas.webp" },
+    { "name": "Truskawki", "price": 5.0, "src": "/owoce/truskawki.jpg" },
+    { "name": "Maliny", "price": 6.0, "src": "/owoce/maliny.png" },
+    { "name": "Borówki", "price": 5.75, "src": "/owoce/borowki.jpg" },
+    { "name": "Wiśnie", "price": 7.25, "src": "/owoce/wisnia.jpg" },
+    { "name": "Śliwki", "price": 2.9, "src": "/owoce/sliwka.jpg" },
+    { "name": "Morele", "price": 3.6, "src": "/owoce/morele.webp" },
+    { "name": "Granat", "price": 3.85, "src": "/owoce/granat.webp" }
+  ],
+  "warzywa": [
+    { "name": "Marchew", "price": 1.2, "src": "/warzywa/marchew.png" },
+    { "name": "Ziemniak", "price": 0.8, "src": "/warzywa/ziemniak.webp" },
+    { "name": "Pomidor", "price": 2.5, "src": "/warzywa/pomidor.jpg" },
+    { "name": "Ogórek", "price": 1.3, "src": "/warzywa/ogorek.webp" },
+    { "name": "Cebula", "price": 1.0, "src": "/warzywa/cebula.webp" },
+    { "name": "Czosnek", "price": 3.5, "src": "/warzywa/czosnek.jpg" },
+    {
+      "name": "Papryka czerwona",
+      "price": 4.0,
+      "src": "/warzywa/papryka_czerwona.jpg"
+    },
+    {
+      "name": "Papryka zielona",
+      "price": 3.8,
+      "src": "/warzywa/papryka_zielona.jpg"
+    },
+    { "name": "Brokuł", "price": 2.75, "src": "/warzywa/brokol.jpg" },
+    { "name": "Kalafior", "price": 2.6, "src": "/warzywa/kalafior.jpg" },
+    { "name": "Sałata", "price": 1.5, "src": "/warzywa/salata.webp" },
+    { "name": "Szpinak", "price": 3.0, "src": "/warzywa/szpinak.jpg" },
+    { "name": "Bakłażan", "price": 4.2, "src": "/warzywa/baklazan.webp" },
+    { "name": "Cukinia", "price": 3.1, "src": "/warzywa/cukinia.jpg" },
+    { "name": "Rzodkiewka", "price": 1.2, "src": "/warzywa/rzodkiewka.png" },
+    { "name": "Por", "price": 2.0, "src": "/warzywa/por.jpg" },
+    {
+      "name": "Fasolka szparagowa",
+      "price": 4.5,
+      "src": "/warzywa/fasolka_szparagowa.png"
+    },
+    { "name": "Kukurydza", "price": 1.9, "src": "/warzywa/kukurydza.png" },
+    { "name": "Kapusta", "price": 1.8, "src": "/warzywa/kapusta.jpeg" },
+    { "name": "Kalarepa", "price": 2.15, "src": "/warzywa/kalarepa.jpg" },
+    { "name": "Burak", "price": 1.1, "src": "/warzywa/burak.png" },
+    { "name": "Seler", "price": 2.35, "src": "/warzywa/seler.jpg" },
+    { "name": "Pietruszka", "price": 2.4, "src": "/warzywa/pietruszka.webp" },
+    { "name": "Dynia", "price": 3.75, "src": "/warzywa/dynia.jpeg" },
+    { "name": "Brukselka", "price": 3.6, "src": "/warzywa/brukselka.webp" }
+  ],
+  "orzechy": [
+    {
+      "name": "Orzech włoski",
+      "price": 6.5,
+      "src": "orzechy/orzech_wloski.jpg"
+    },
+    {
+      "name": "Orzech laskowy",
+      "price": 7.2,
+      "src": "orzechy/orzech_laskowy.jpg"
+    },
+    {
+      "name": "Orzech nerkowca",
+      "price": 8.9,
+      "src": "orzechy/orzech_nerkowca.jpg"
+    },
+    { "name": "Migdały", "price": 9.5, "src": "orzechy/migdaly.png" },
+    {
+      "name": "Orzechy pekan",
+      "price": 10.2,
+      "src": "orzechy/orzech_pekan.jpg"
+    },
+    {
+      "name": "Orzeszki ziemne",
+      "price": 4.0,
+      "src": "orzechy/orzeszki_ziemne.png"
+    },
+    {
+      "name": "Orzeszki piniowe",
+      "price": 15.5,
+      "src": "orzechy/orzeszki_piniowe.webp"
+    },
+    { "name": "Pistacje", "price": 12.0, "src": "orzechy/pistacje.jpg" },
+    {
+      "name": "Orzechy makadamia",
+      "price": 18.75,
+      "src": "orzechy/orzech_makadamia.jpg"
+    },
+    {
+      "name": "Orzechy brazylijskie",
+      "price": 11.3,
+      "src": "orzechy/orzech_brazylijski.jpg"
+    },
+    {
+      "name": "Pekan w łupinach",
+      "price": 9.8,
+      "src": "orzechy/orzech_pekan_lupina.jpg"
+    },
+    { "name": "Kasztany jadalne", "price": 7.6, "src": "orzechy/kasztany.png" },
+    {
+      "name": "Pistacje prażone",
+      "price": 12.5,
+      "src": "orzechy/pistacje_prazone.jpg"
+    },
+    {
+      "name": "Orzeszki ziemne solone",
+      "price": 4.2,
+      "src": "orzechy/orzeszki_ziemne_solone.jpg"
+    },
+    {
+      "name": "Orzechy cedrowe",
+      "price": 14.4,
+      "src": "orzechy/orzech_cedrowy.JPG"
+    }
+  ]
+}
