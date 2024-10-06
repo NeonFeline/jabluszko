@@ -80,6 +80,7 @@ const changeSelection = function (newSelection) {
     color: var(--color-secondary-light);
     text-align: center;
     margin-top: auto;
+    font-weight: 300;
   }
 }
 </style>

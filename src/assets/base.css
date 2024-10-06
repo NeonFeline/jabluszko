@@ -11,6 +11,8 @@
   --color-white-1: #ffffff;
   --color-white-2: #eeeeee;
   --color-white-3: #dddddd;
+
+  --default-boder-radius: 0.2rem;
 }
 
 *,

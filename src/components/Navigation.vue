@@ -9,7 +9,7 @@ defineProps({
 
 <template>
   <nav class="main_nav">
-    <img src="" alt="" class="main_nav__logo" />
+    <img src="/logo.png" alt="" class="main_nav__logo" />
     <button class="main_nav__btn">Wezwij pomoc</button>
   </nav>
 </template>
@@ -19,8 +19,9 @@ defineProps({
   background-color: var(--color-primary);
   display: flex;
   padding: 1.2rem 2.4rem;
+  align-items: center;
   &__logo {
-    height: 3.6rem;
+    height: 3.2rem;
     margin-right: auto;
   }
   &__btn {
@@ -34,7 +35,7 @@ defineProps({
     cursor: pointer;
 
     &:hover {
-      background-color: var(--color-secondary-dark);
+      background-color: var(--color-secondary-light);
     }
   }
 }
